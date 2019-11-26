@@ -2,7 +2,7 @@
 
 ## Roles
 
-![](images\roles.svg)
+![](images/roles.svg)
 
 | Role           | Responsibility                                             |
 | -------------- | ---------------------------------------------------------- |
