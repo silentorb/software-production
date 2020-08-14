@@ -88,3 +88,17 @@
 
 Sometimes graphic design is referred to as application design, when they are not the same thing.  Within the context of application development, graphic design is primarily the arrangement of elements on a screen and making a UI look aesthetically pleasing.  Graphic design can be considered a subset of application design, though the bulk of an application can be designed before any graphic investment.
 
+## Development Workflow
+
+| #    | Stage                | Responsible Role |
+| ---- | -------------------- | ---------------- |
+| 1    | Backlog              | Project Manager  |
+| 2    | Todo                 | Developers       |
+| 3    | Blocked              | Project Manager  |
+| 4    | In Progress          | Developers       |
+| 5    | Review               | Tech Lead        |
+| 6    | Ready for Staging    | Dev Ops          |
+| 7    | Testing              | QA               |
+| 8    | Ready for Production | Dev Ops          |
+| 9    | Done                 |                  |
+
