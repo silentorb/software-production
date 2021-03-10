@@ -21,10 +21,10 @@
      id="defs2" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#939393"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0.48627451"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
      inkscape:cx="159.40252"
@@ -40,7 +40,8 @@
      fit-margin-bottom="10"
      fit-margin-top="10"
      fit-margin-left="10"
-     fit-margin-right="10" />
+     fit-margin-right="10"
+     guidetolerance="20" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -58,6 +59,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-12.036424,-115.35861)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.89999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect885"
+       width="191.89952"
+       height="161.16353"
+       x="12.036424"
+       y="115.01267" />
     <circle
        id="path815"
        cx="99.961273"
