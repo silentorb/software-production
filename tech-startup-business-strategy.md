@@ -11,7 +11,8 @@ The primary causes of failure are:
 
 * If you don't know the cost, either learn the cost or find a new goal
 * If you are unwilling or unable to pay the cost, find a new goal
-* Time, cost, quality—pick two
+* When evaluating cost, determine your priorities:
+  * Time, cost, quality—pick two
 
 ### Value
 
@@ -63,8 +64,12 @@ Before setting out on a venture:
 ### First to Market
 
 * Being first to market only provides a temporal boost to competitiveness
+
 * Competition isn't a sprint, it's a marathon
+
 * For a business to truly compete, it can't depend on the temporal boost of being first to market
+
+* > Pioneers are often the ones with arrows in their backs
 
 ## Design
 
@@ -86,6 +91,11 @@ Before setting out on a venture:
 
 * Adding a non-essential feature to a release will not make that feature arrive sooner, it will delay the essential features
 
+* Sometimes premature non-essential features are motivated by a reliance on spectactular product unveilings
+
+  * First impressions are overrated
+  * Most corporations had humble beginnings and slow starts
+
 ## Execution
 
 ### Support and Maintenance
@@ -104,11 +114,9 @@ Before setting out on a venture:
 ### Timelines
 
 * The primary cause of late projects is not starting soon enough
-
 * Reducing the length of a project either increases its cost or reduces its quality
-
+  
   * Time, cost, quality—pick two
-
 * An unrealistic deadline usually results in a loss of time, cost, and quality
-
 * > Aside for the rare project cursed with too much investor money, I have yet to see a software project that suffered from starting with an overlong timeline - CJ
+
