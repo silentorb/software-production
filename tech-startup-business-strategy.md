@@ -45,6 +45,10 @@ Before setting out on a venture:
 
 ## Strategy
 
+## Business
+
+* When a tech startup is creating its first product, it is not so much creating a product as it is creating a business
+
 ### Technology
 
 * It is a natural weakness of technology companies to put too much weight on technology
@@ -95,6 +99,7 @@ Before setting out on a venture:
 
   * First impressions are overrated
   * Most corporations had humble beginnings and slow starts
+  * Spectacular unveilings work better when an established business with an established product line is releasing a new product
 
 ## Execution
 
