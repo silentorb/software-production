@@ -45,7 +45,7 @@ Before setting out on a venture:
 
 ## Strategy
 
-## Business
+### Business
 
 * When a tech startup is creating its first product, it is not so much creating a product as it is creating a business
 
