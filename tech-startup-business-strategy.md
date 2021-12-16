@@ -7,11 +7,16 @@
 The primary causes of failure are:
 
 1. Not knowing the cost
-2. Being unable or unwilling to pay the cost
+2. Being unwilling or unable to pay the cost
 
 * If you don't know the cost, either learn the cost or find a new goal
+
 * If you are unwilling or unable to pay the cost, find a new goal
+
+* > You can spend a lot of time building around an idea [...] before it occurs to you that the simplest solution is to get a better one. - [Valve](https://www.teamfortress.com/post.php?id=5816)
+
 * When evaluating cost, determine your priorities:
+  
   * Time, cost, quality—pick two
 
 ### Value
@@ -60,6 +65,7 @@ Before setting out on a venture:
 ### Team Building
 
 * Some say, "The leaders of a tech company need to be excellent with technology"
+* Product-specific domain knowledge is helpful for a leader to have, but ultimately cannot be relied upon
 * Being good at business involves being good at employment
 * Good employment involves being good at hiring people that are excellent in domains that the employer is not excellent in
 * A leader needs trustworthy experts, and needs to trust those experts
@@ -68,11 +74,8 @@ Before setting out on a venture:
 ### First to Market
 
 * Being first to market only provides a temporal boost to competitiveness
-
 * Competition isn't a sprint, it's a marathon
-
 * For a business to truly compete, it can't depend on the temporal boost of being first to market
-
 * > Pioneers are often the ones with arrows in their backs
 
 ## Design
@@ -80,23 +83,14 @@ Before setting out on a venture:
 ### Product Features
 
 * The first version of a product (V1) needs to be an MVP (Minimally Viable Product)
-
 * A 100-feature MVP that is useless as long as it only has 99% of those features is a bad product
-
 * A good system is one that is useful when it it small and can seamlessly grow larger
-
 * Often a visionary will have a product idea that goes something like this:
-
 * > My boxer is the best boxer in the world!  He can beat anyone in the ring!  All he needs is a club.  And maybe a gun.  And the opponent needs his hands tied behind his back.  With just those features, my boxer can beat anyone!
-
 * A good product idea is one that is useful with relatively few features
-
 * A premature focus on supporting features is often a sign of a bad foundation
-
 * Adding a non-essential feature to a release will not make that feature arrive sooner, it will delay the essential features
-
 * Sometimes premature non-essential features are motivated by a reliance on spectactular product unveilings
-
   * First impressions are overrated
   * Most corporations had humble beginnings and slow starts
   * Spectacular unveilings work better when an established business with an established product line is releasing a new product
