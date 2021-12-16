@@ -17,7 +17,7 @@ The primary causes of failure are:
 
 * When evaluating cost, determine your priorities:
   
-  * Time, cost, quality—pick two
+  * > Time, cost, quality—pick two
 
 ### Value
 
