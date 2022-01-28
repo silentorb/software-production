@@ -1,4 +1,4 @@
-# Tech Startup Business Strategy
+# Tech Company Business Strategy
 
 ## Appraisal
 
@@ -116,6 +116,8 @@ Before setting out on a venture:
 * Reducing the length of a project either increases its cost or reduces its quality
   
   * Time, cost, quality—pick two
-* An unrealistic deadline usually results in a loss of time, cost, and quality
-* > Aside for the rare project cursed with too much investor money, I have yet to see a software project that suffered from starting with an overlong timeline - CJ
+* An unrealistically short deadline results in any or all of the following:
+  * Delays
+  * Increased cost
+  * Reduced quality
 
