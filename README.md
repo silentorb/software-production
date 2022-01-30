@@ -6,4 +6,3 @@ This guide has an emphasis on tech startups, but much of it applies to establish
 
 * [Tech Company Business Strategy](tech-company-business-strategy.md)
 * [Production Roles](production-roles.md)
-* 

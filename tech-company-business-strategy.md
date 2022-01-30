@@ -95,6 +95,32 @@ Before setting out on a venture:
   * Most corporations had humble beginnings and slow starts
   * Spectacular unveilings work better when an established business with an established product line is releasing a new product
 
+### Focus
+
+* > Each tool should do one thing and do it well - the Unix Philosophy
+
+* There are two ditches on either side of the road: trying to do too little and trying to do too much
+
+  * Software products rarely fall into the ditch of trying to do too little
+
+* Avoid monolithic products
+
+* Instead of trying to solve multiple customer problems, it is usually more efficient to create a product that solves one customer problem that can be used with other products which solve related customer problems
+
+  * Embedding third-party products can be useful, but is not as useful as creating a product that can be used alongside other products
+
+* As a company grows larger, it can afford to diversify more, but that diversification needs to be split into multiple products created by multiple teams
+
+  * If the domains continue to become more diverse, the corporation will need to further split into multiple semi-independent child-companies with their own teams and product lines
+
+### Market Integration
+
+* There is a natural desire for product owners to create a product that forces a customer relationship where the tech company has control over the customer
+  * That desire is not healthy for either the tech company or the customer
+  * That desire needs to be tamed
+* It is more effective to meet customers where they are at, creating a product that helps them in their own backyard
+* It is less effective to build a field of dreams that requires customers to leave their world and reside in yours in order for their needs to be met
+
 ## Execution
 
 ### Support and Maintenance
