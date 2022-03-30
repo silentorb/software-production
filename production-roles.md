@@ -15,7 +15,7 @@
 
 ## What and Why
 
-* Product determines WHAT the client's goals and needs are
+* Product determines what the client's goals and needs are
 * Product challenges the client's goals
 * Product researches the market viability of potential high-level solutions
 * While Product and the client can define some high-level solutions, their main responsibility is defining problems, not solutions
@@ -34,4 +34,4 @@
 ## When
 
 * Project managers plan for future development and generate reports to analyze past development
-* Product managers define priorities (Not shown in diagram)
+* Product managers manage priorities (Not shown in diagram)

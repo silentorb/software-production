@@ -1,36 +1,4 @@
-# Agency Software Production
-
-## Roles
-
-![](images/roles.svg)
-
-| Role           | Responsibility                                             |
-| -------------- | ---------------------------------------------------------- |
-| What and Why   | Responsible for where you are going                        |
-| How            | Responsible for how you get there                          |
-| Where and When | Responsible for arriving at the intended place and on time |
-
-
-
-### What and Why
-
-* Product determines WHAT the client's goals and needs are
-* Product challenges the client's goals
-* Product researches the market viability of potential high-level solutions
-* While Product and the client can define some high-level solutions, their main responsibility is defining problems, not solutions.
-
-### How
-
-* Designers design solutions based on product needs
-* Designers need a firm background in implementation
-* Graphic Designers, Developers, and DevOps implement those designs
-
-### Where and When
-
-* Project managers coordinate efforts and track progress
-* QA ensures delivered features meet the client's needs
-
-## Steps
+# Production Phases
 
 ### Scoping
 
@@ -39,9 +7,8 @@
 * Product questions the viability of any presupposed solutions the client has
 * Product researches market viability of the client's desired product
   * In particular, this includes becoming knowledgeable of major competitors
-* Tech Lead weights features by development cost
+* Tech Leads weigh features by development cost
 * Product prioritizes features based on ideal market priority and feature costs
-* 
 
 ### Design
 
